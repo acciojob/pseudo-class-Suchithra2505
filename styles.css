@@ -4,12 +4,12 @@
 	
 }
 #a::before{
-	content:"Before element ";
+	content:"Before Element ";
 	color:#f00;
 	font-size:20px;
 }
 #a::after{
-	content:" After element ";
+	content:" After Element";
 	color: #f00;
 	font-size:20px;
 }
