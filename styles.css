@@ -5,7 +5,7 @@
 }
 #a::before{
 	content:"Before Element ";
-	color:#f00;
+	color: #f00;
 	font-size:20px;
 }
 #a::after{
